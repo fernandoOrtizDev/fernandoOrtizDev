@@ -17,7 +17,7 @@ I am a Software Analysis and Development Technologist specialized in the Mobile 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, ⛩️ I love to watch anime, ✈️ travel, 🎮 play video games, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 📫 Reach out to me at: <a href="nandoortiz9726@gmail.com">nandoortiz9726@gmail.com</a>
 
 ## My Skills Include
 
@@ -64,8 +64,23 @@ I am a Software Analysis and Development Technologist specialized in the Mobile 
 
 <hr>
 <p align="center">
-  <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+  <i>The best way to predict the future is to invent it.</i>
   <br><br>
   <a target="_blank" href="https://www.linkedin.com/in/fernando-ortiz-escobar-05a00436a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a target="_blank" href="nandoortiz9726@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=fernandoOrtizDev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/fernandoOrtizDev)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=fernandoOrtizDev&theme=material-palenight)](https://github.com/fernandoOrtizDev)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
